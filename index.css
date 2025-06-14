@@ -9,7 +9,7 @@ html, body {
 
 body {
     margin: 0;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: tt bluescreens;
 }
 header {
     display: flex;
@@ -87,14 +87,15 @@ h2 , h3 {
 #home-text-container{
      display: flex;
    justify-content: space-around;
-   
+   text-align: center;
 }
 
 
 #home-description {
   padding: 10px;
-  margin-left: 200px;
+  margin-left: 20px;
   margin-right: 20px;
+  text-align: center;
 }
 
 #tearoom-container {
